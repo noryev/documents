@@ -39,7 +39,7 @@ https://www.galerielestudio.com
 https://github.com/galaxyxone/glsx_live2.2
 
 ## Team Info
-Passionate about the open internet, based in Austin TX. Logan Lentz is a full stack developer and leads our product development. Alex Mirran is a beginner front end developer with experience in business development. Giorgio Fasoli is a beginner web designer and assists with documentation. Excited about building data-privacy solutions with IPFS and its ecosystem!
+Passionate about the open internet, based in Austin TX. Logan Lentz is a full stack developer and leads our product development. Alex Mirran is a beginner front end developer with experience in business development. Giorgio Fasoli is a beginner web designer and assists with documentation. Excited about building data-privacy solutions with IPFS and its ecosystem! Hopefully getting bigger soon!
 
 ### Team Size  
 There are two of us full time, and we also have a part-time designer 
