@@ -11,7 +11,7 @@ Art galleries need ways to certify the authenticity of physical pieces sold to c
 We use IPFS on the back-end to store and serve the metadata for the ERC-721 tokens that are acting as the digital COAs. The ERC-721 metadata hosted on IPFS and Filecoin are linked within our react app for users to view themselves. We save the data on IPFS because we want our data decentralized and available.<!-- Describe how your project uses any or all of these technologies, and why. -->
 
 ## Project Status
-live build at www.galerielestudio.com and continued development
+live build is no longer hosted
 
 ## Previews
 ![galerielestudio](https://user-images.githubusercontent.com/30084404/159200476-003161a1-7701-45fd-8d15-4bc9513f46d0.png)
